@@ -1,0 +1,10 @@
+---
+plugin: servicenow.itsm.now
+group_by:
+  manufacturer:
+  os:
+    includes:
+      - RHEL 
+      - CentOS
+      - Fedora
+      - Microsoft Windows
