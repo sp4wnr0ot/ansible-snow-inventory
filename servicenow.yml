@@ -4,7 +4,5 @@ group_by:
   manufacturer:
   os:
     includes:
-      - RHEL 
-      - CentOS
-      - Fedora
-      - Microsoft Windows
+      - Linux Red Hat
+      - Windows XP
